@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-unused-vars
-import React from "react";
-import styled from "styled-components";
-import Example from "./components/Example/Example";
+import React from 'react';
+import styled from 'styled-components';
+import Example from '../components/Example/Example';
 
 const StyledHome = styled.div`
   margin: 0;
@@ -11,7 +11,7 @@ const StyledHome = styled.div`
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -150%);
   h1 {
-    font-family: "Roboto";
+    font-family: 'Roboto';
     text-align: center;
   }
 `;

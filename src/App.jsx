@@ -1,10 +1,10 @@
 // eslint-disable-next-line no-unused-vars
-import React from "react";
-import { Routes, Route } from "react-router-dom";
+import React from 'react';
+import { Routes, Route } from 'react-router-dom';
 
-import { GlobalFonts } from "./assets/styles/fonts";
-import { GlobalResetStyle } from "./assets/styles/cssReset";
-import Home from "./Home";
+import { GlobalFonts } from './assets/styles/fonts';
+import { GlobalResetStyle } from './assets/styles/cssReset';
+import Home from './pages/Home';
 
 function App() {
   return (
